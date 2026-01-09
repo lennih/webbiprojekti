@@ -1,6 +1,4 @@
 # Verkkosivuprojekti
 
-Yksinkertainen verkkosivujen harjoitusprojekti.
+Yksinkertainen verkkosivun harjoitusprojekti.
 
-## Käyttö
-Avaa src/index.html selaimessa.
